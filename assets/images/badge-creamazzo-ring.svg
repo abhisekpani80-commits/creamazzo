@@ -1,0 +1,8 @@
+<svg width="134" height="134" viewBox="0 0 134 134" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="textRing" d="M 67, 67 m -56, 0 a 56,56 0 1,1 112,0 a 56,56 0 1,1 -112,0"/>
+  </defs>
+  <text fill="#E4C590" font-family="'DM Sans', sans-serif" font-size="8.6" font-weight="700" letter-spacing="2.4">
+    <textPath href="#textRing" startOffset="0%">• SPECIALITY COFFEE • HYDERABAD INDIA</textPath>
+  </text>
+</svg>
